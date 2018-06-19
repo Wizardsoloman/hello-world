@@ -1,2 +1,2 @@
 # hello-world
-Only one repository
+Hi soloman!
